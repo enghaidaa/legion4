@@ -6,7 +6,7 @@ Our goal is to demonstrate practical application of PHP concepts, including back
 
 ## 👥 Team
 **Legion4 Team**  
-We are a collaborative group of students working together to design, build, and document this project .
+We are a collaborative group of 4 students working together to design, build, and document this project .
 
 ## 🎯 Objectives
 - Apply PHP fundamentals in a real-world project.
@@ -15,6 +15,6 @@ We are a collaborative group of students working together to design, build, and 
 
 ## ⚙️ Tech Stack
 - **Language:** PHP  
-- **Database:**   
+- **Database:** mySql  
 - **Frontend:**  
 - **Version Control:** Git + GitHub  

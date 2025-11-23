@@ -1,79 +1,99 @@
 🌍 Similar Websites to "Little Boxsi"
 
+Arab Websites:
 
- Arab Websites
+1- Ghithaa
+🔗 https://ghithaa.com/ar/
 
-1-
-Advantages 
--
--
--
-DisAdvantages
--
--
--
----------------------------------------------------------------------------------------------
+Advantages:
 
-2-
-Advantages 
--
--
--
-DisAdvantages
--
--
--
----------------------------------------------------------------------------------------------
+-Simple and straightforward navigation with stable static page structure.
 
-3-
-Advantages 
--
--
--
-DisAdvantages
--
--
--
----------------------------------------------------------------------------------------------
+-Lightweight website with minimal scripts, reducing performance failures.
 
-Foreign Websites
+-Responsive design that adapts to mobile, tablet, and desktop screens.
 
+Disadvantages:
 
-1-Little Spoon
-DisAdvantages:
+-High-resolution images slow down loading speed; lacks modern optimization (WebP, lazy loading).
 
--Navigation Bar Issue – The navbar does not highlight the active section, making it hard to know where you are at a glance.
+-Compatibility issues on older devices and less common browsers.
 
--Lack of Customization – Users cannot personalize their boxes or create their own meal combinations according to preferences.
+-Heavy reliance on interactive elements (pop-ups, sliders) with unclear error handling.
 
--Design Problems – Some texts are placed on very bright backgrounds that strain the eyes, and overall element sizes are too large.
+2- [Website Name]
+🔗 [Link]
 
- Advantages:
+Advantages:
 
--Clear and Lightweight Design – The website feels simple, easy to use, and straightforward.
+Disadvantages:
 
--Gift Section Available – There is a dedicated section for gifts, adding extra value for users.
+3- [Website Name]
+🔗 [Link]
 
--Preference Filter – Users can filter meals based on preferences, which improves usability.
+Advantages:
 
----------------------------------------------------------------------------------------------
-2-
-Advantages 
--
--
--
-DisAdvantages
--
--
--
----------------------------------------------------------------------------------------------
+Disadvantages:
 
-3-
-Advantages 
--
--
--
-DisAdvantages
--
--
--
+Foreign Websites:
+
+1- Little Spoon
+🔗 https://www.littlespoon.com/gift
+
+Advantages:
+
+-Clear and lightweight design, easy to use.
+
+-Dedicated gift section adds extra value.
+
+-Preference filter improves usability.
+
+Disadvantages:
+
+-Navbar does not highlight active section.
+
+-No customization options for meal combinations.
+
+-Design issues: bright backgrounds and oversized elements.
+
+2- Universal Yum
+🔗 https://www.universalyums.com
+
+Advantages:
+
+-Surprise item included in each box.
+
+-Health-based meal options (sweet & savory).
+
+-Replacement or compensation for damaged/missing items.
+
+Disadvantages:
+
+-No alternatives for allergy-sensitive customers.
+
+-Excessive variety reduces overall experience value.
+
+-Not suitable for strict dietary requirements.
+
+3- Meal Finds
+🔗 https://www.mealfinds.com/meal-services/baby-kids-meals/yumble
+
+Advantages:
+
+-Custom meal selection (vegetables, fruit, snacks).
+
+-Interactive “build your own” feature for parents.
+
+-Special dietary lists (gluten-free, dairy-free, vegan).
+
+-Trustpilot ratings available for customer feedback.
+
+Disadvantages:
+
+-Many meals are unhealthy for children.
+
+-Navigation is unclear for new users.
+
+-Less kid-friendly design, lacking playfulness.
+
+Packaging is unattractive.
