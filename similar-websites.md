@@ -20,20 +20,33 @@ Disadvantages:
 -Compatibility issues on older devices and less common browsers.
 
 -Heavy reliance on interactive elements (pop-ups, sliders) with unclear error handling.
+---------------------------------------------------------------------------------------------
+2-Body Kitchen SA
 
-2- [Website Name]
-🔗 [Link]
-
-Advantages:
-
-Disadvantages:
-
-3- [Website Name]
-🔗 [Link]
+ 🔗 https://www.bodykitchensa.com/
 
 Advantages:
 
+-Group and individual subscription options available. -Customizable meal selection: users can specify exact dishes, add-ons, and types. -Focus on health and quality: detailed calorie information with balanced macros (protein, carbs, fats) builds trust for health-conscious customers.
+
 Disadvantages:
+
+-Traditional page structure with limited modern design elements. -Lack of interactive features: missing smart filters or dynamic customization tools compared to global competitors. -Weak UI organization: multiple options displayed in overlapping menus, reducing clarity and ease of navigation.
+
+---------------------------------------------------------------------------------------------
+
+3- Octafood
+https://octafoodksa.com/
+
+Advantages:
+
+-Diverse meal options with wide variety available. -Clear and straightforward image selection enhances usability.
+
+Disadvantages:
+
+-Web version limited to browsing only; ordering requires mobile app download. -Excessive text content creates confusion and reduces clarity. -Page color choices are not visually appealing, weakening overall design impression.
+---------------------------------------------------------------------------------------------
+
 
 Foreign Websites:
 
@@ -56,6 +69,8 @@ Disadvantages:
 
 -Design issues: bright backgrounds and oversized elements.
 
+---------------------------------------------------------------------------------------------
+
 2- Universal Yum
 🔗 https://www.universalyums.com
 
@@ -74,6 +89,8 @@ Disadvantages:
 -Excessive variety reduces overall experience value.
 
 -Not suitable for strict dietary requirements.
+
+---------------------------------------------------------------------------------------------
 
 3- Meal Finds
 🔗 https://www.mealfinds.com/meal-services/baby-kids-meals/yumble
