@@ -44,7 +44,7 @@ git push -u origin feature/your-branch-name
 #💻 تنفيذ العمل ورفع التغييرات
 #إضافة الملفات
 bash
-git .add 
+git add . 
 
 #كتابة commit واضحة
 bash
